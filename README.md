@@ -10,9 +10,9 @@ As an aspiring data professional, whether in data engineering, data science, mac
 
 ## Repository Structure
 The solutions are organized by problem difficulty, following the structure of the LeetCode study plan. Each file is named problem_name.sql.
-* Easy/ - Solutions for easy-level problems.
-* Medium/ - Solutions for medium-level problems.
-* Hard/ - Solutions for hard-level problems.
+* Easy - Solutions for easy-level problems.
+* Medium - Solutions for medium-level problems.
+* Hard - Solutions for hard-level problems.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

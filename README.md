@@ -1,1 +1,15 @@
 # SQL-50
+
+## LeetCode SQL-50
+This repository contains my solutions to the LeetCode SQL-50 study plan. The purpose of this project is to practice and strengthen my SQL skills, a foundational language for anyone working with data.
+
+As an aspiring data professional, whether in data engineering, data science, machine learning, or data analysis, I believe that a deep understanding of SQL is essential. This repository serves as a personal log of my progress through the LeetCode SQL 50 problems. By solving these problems, I aim to:
+* Reinforce core SQL concepts like JOINs, GROUP BY, HAVING, window functions, and subqueries.
+* Improve problem-solving skills by translating real-world data scenarios into efficient SQL queries.
+* Prepare for technical interviews by tackling common SQL patterns and challenges.
+
+## Repository Structure
+The solutions are organized by problem difficulty, following the structure of the LeetCode study plan. Each file is named problem_name.sql.
+* Easy/ - Solutions for easy-level problems.
+* Medium/ - Solutions for medium-level problems.
+* Hard/ - Solutions for hard-level problems.

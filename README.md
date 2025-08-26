@@ -1,6 +1,6 @@
 # SQL-50
 
-## LeetCode SQL-50
+## About LeetCode SQL-50
 This repository contains my solutions to the LeetCode SQL-50 study plan. The purpose of this project is to practice and strengthen my SQL skills, a foundational language for anyone working with data.
 
 As an aspiring data professional, whether in data engineering, data science, machine learning, or data analysis, I believe that a deep understanding of SQL is essential. This repository serves as a personal log of my progress through the LeetCode SQL 50 problems. By solving these problems, I aim to:

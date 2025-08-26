@@ -13,3 +13,11 @@ The solutions are organized by problem difficulty, following the structure of th
 * Easy/ - Solutions for easy-level problems.
 * Medium/ - Solutions for medium-level problems.
 * Hard/ - Solutions for hard-level problems.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ntnq2000/SQL-50/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->

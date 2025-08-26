@@ -19,5 +19,6 @@ The solutions are organized by problem difficulty, following the structure of th
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/ntnq2000/SQL-50/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ntnq2000/SQL-50/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

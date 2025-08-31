@@ -8,12 +8,6 @@ As an aspiring data professional, whether in data engineering, data science, mac
 * Improve problem-solving skills by translating real-world data scenarios into efficient SQL queries.
 * Prepare for technical interviews by tackling common SQL patterns and challenges.
 
-## Repository Structure
-The solutions are organized by problem difficulty, following the structure of the LeetCode study plan. Each file is named problem_name.sql.
-* Easy - Solutions for easy-level problems.
-* Medium - Solutions for medium-level problems.
-* Hard - Solutions for hard-level problems.
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database

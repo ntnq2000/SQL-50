@@ -20,6 +20,7 @@ As an aspiring data professional, whether in data engineering, data science, mac
 | [0620-not-boring-movies](https://github.com/ntnq2000/SQL-50/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/ntnq2000/SQL-50/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/ntnq2000/SQL-50/tree/master/1161-project-employees-i) |
+| [1251-average-selling-price](https://github.com/ntnq2000/SQL-50/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/ntnq2000/SQL-50/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/ntnq2000/SQL-50/tree/master/1280-students-and-examinations) |
 | [1390-average-selling-price](https://github.com/ntnq2000/SQL-50/tree/master/1390-average-selling-price) |
